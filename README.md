@@ -27,3 +27,7 @@ if (grade = 'C')
 * Beer
 * Burgers
 * More Beer
+
+## Numbered list
+1. Extra beer incase we run out
+2. Buns for burgers
