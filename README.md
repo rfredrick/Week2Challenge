@@ -38,3 +38,9 @@ if (grade = 'C')
 | 22            | 8             | 30    |
 | 39            | 11            | 50    |
 | 13            | 25            | 38    |
+
+_Thank you for letting me try again_
+**I think I better understand**
+~~I can't believe it was this easy the whole time~~
+
+---
