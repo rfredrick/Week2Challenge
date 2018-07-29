@@ -12,3 +12,11 @@ Picture:
 Image on the web:
 ![alt text][logo]
 [logo]:https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjlmJO2ksXcAhUHfxoKHVRyCaEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.amazon.com%2Fproduce-aisle-Russet-Potato-Large%2Fdp%2FB000NSKB7Q&psig=AOvVaw2Ysy7fKl9uAHs-4blh5jZ2&ust=1532982351355378
+```javascript
+if (grade = 'C')
+{
+    mood = 'content';
+}
+  else {
+  mood = 'bleh';
+  }
