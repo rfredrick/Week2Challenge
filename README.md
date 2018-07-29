@@ -6,3 +6,5 @@ Week 2 Challenge
 
 [Here is a link to another page on here](https://github.com/rfredrick/Week2Challenge/blob/master/Page%202)
 
+Picture:
+![alt text](https://github.com/rfredrick/Week2Challenge/blob/master/idk.png)
