@@ -24,6 +24,6 @@ if (grade = 'C')
 > I can't believe that this didn't make sense to me when I orginally tried it. I feel pretty stupid. 
 
 ### Bulleted List 
-..* Beer
-..* Burgers
-..* More Beer
+* Beer
+* Burgers
+* More Beer
